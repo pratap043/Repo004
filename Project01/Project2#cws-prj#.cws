@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="28DFEB6B-98A5-A1EC-B695-5BC8AE5A8982">
 	<DocumentID>28DFEB6B-98A5-A1EC-B695-5BC8AE5A4982</DocumentID>
-	<Name>Project01</Name>
-	<Description>Project01</Description>
+	<Name>Project2</Name>
+	<Description>Project2</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2022-05-23T05:04:47.319</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="28DFEB6B-98A5-A1EC-B695-5BC8AE59C982"
-			path="Project01"
+			path="Project2"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
